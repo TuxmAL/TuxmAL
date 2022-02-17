@@ -1,39 +1,18 @@
-### Hi there 👋 I am TuxmAL!
-- 😄 Pronouns: he, egli/lui, il, on
-- 📫 How to reach me: 
-  - ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTuxmAL)
- my bio
- 
- <img src="https://cdn.worldvectorlogo.com/logos/ruby-original-wordmark.svg" alt="Ruby Logo" width="50" height="50"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/crystal-original-wordmark.svg" alt="Crystal Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/apache-original-wordmark.svg" alt="Apache Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-plain-wordmark.svg.svg" alt="Bootstrap Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/debian-original-wordmark.svg" alt="Debian Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/git-original-wordmark.svg " alt="Git Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/jquery-original-wordmark.svg" alt="jQuery Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/markdown-original.svg" alt="Markdown Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/nginx-original.svg" alt="Nginx Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/rails-original-wordmark.svg" alt="Ruby on Rails Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/raspberrypi-line-wordmark.svg" alt="Raspberry Pi Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/vim-original.svg" alt="Vim Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL Server Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/postgresql-original-wordmark.svg" alt="Postgresql Logo" width="50" height="50"/>
- <img src="https://cdn.worldvectorlogo.com/logos/" alt=" Logo" width="50" height="50"/>
-<!--
-**TuxmAL/TuxmAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm TuxmAL</h1>
+<h3 align="center">A passionate backend/fullstack developer from Italy</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuxmal&label=Profile%20views&color=0e75b6&style=flat" alt="tuxmal" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<p align="left"> <a href="https://twitter.com/tuxmal" target="blank"><img src="https://img.shields.io/twitter/follow/tuxmal?logo=twitter&style=for-the-badge" alt="tuxmal" /></a> </p>
 
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Ruby, Rails, Containers, Microservices**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tuxmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuxmal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuxmal&show_icons=true&locale=en&layout=compact" alt="tuxmal" /></p>
